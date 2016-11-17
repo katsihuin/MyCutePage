@@ -33,6 +33,7 @@ header ul li {
 	background-size: cover;
 	width: 100%;
 	height: 400px;
+	padding: 1px;
 }
 
 
@@ -49,7 +50,8 @@ header ul li {
 	width: 60%;
 	text-align: center; 
 	margin-left: 150px;
-
+	border: 1px solid purple;
+	padding: 5px;
 }
 
 .about p {
